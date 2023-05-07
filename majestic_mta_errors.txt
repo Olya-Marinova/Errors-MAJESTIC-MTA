@@ -1,3 +1,5 @@
+Русский:
+
 Здесь собраны все ошибки MAJESTIC MTA актуальны на 07.05.2023 (Последнее изменение 07.05.2023 16:56 по MSK):
 
 Ошибки протокола:
@@ -45,5 +47,55 @@
 Предупреждение [BSG04] - Обнаружен файл d3d9.dll;
 Ошибка         [BSG05] - Не удалось загрузить библиотеку 'ib';
 Ошибка         [BSG06] - Неправильное название загружаемого изображения.
+
+English:
+
+Here are collected all the errors of MAJESTIC MTA are relevant on 07.05.2023 (Last modified 07.05.2023 16:56 by MSK):
+
+Protocol errors:
+Protocol error 60 - Error related to problems related to the client, many reasons;
+Protocol Error 39 - An error related to unknown vehicle IDs;
+Protocol Error 16 - An error related to an unknown character model;
+Protocol Error 10 - An error related to a Team or an unknown character model;
+Protocol Error 9  - An error related to the minimum and maximum restrictions in the player's name;
+
+Errors / Warnings [CC]:
+Error         [CC71] - Use mtasa protocol://;
+Error         [CC70] - Server address not specified;
+Error         [CC51] - Interface is not loaded;
+Error         [CC50] - Unable to initialize Direct3D9;
+Error         [CC41] - URL Execution error;
+Error         [CC40] - Some module is incorrect;
+Disabling     [CC34] - Unknown protocol;
+Error         [CC33] - Invalid server response (1);
+Error         [CC32] - Invalid server response (2);
+Error         [CC31] - The module is not installed (Some module);
+Disconnection [CC30] - Connection has been reset;
+Disconnection [CC29] - Connection with the server was lost;
+Disabling     [CC28] - Disconnected from the server;
+Disabling     [CC27] - You are banned from this server;
+Disconnection [CC26] - Remote connection lost;
+Shutdown      [CC25] - Remote shutdown;
+Disabling     [CC24] - Unknown protocol;
+Error         [CC23] - Connection time expired;
+Error         [CC22] - Connection to this server failed;
+Error         [CC21] - Invalid server address;
+Error         [CC20] - Invalid user name.
+
+Errors / Warnings [CL]:
+Error [CL43] - Try to turn off the following products for MTA and GTA: process;
+Error [CL09] - File cannot be deleted: 'file';
+Error [CL08] - Resetting GTA:SA settings may fix this problem;
+Error [CL06] - Another MAJESTIC MTA process is already running;
+Error [CL05] - Another process with MAJESTIC MTA is already running;
+Error [CL04] - Is a problem restarting MAJESTIC MTA.
+
+Errors / Warnings [BSG (Balck Sun Games)] (Its own errors and warnings):
+Error   [BSG01] - Windows 7, 8, 8.1 is not supported;
+Error   [BSG02] - Run the game as administrator;
+Error   [BSG03] - The game did not detect the 'file', reinstall the game;
+Warning [BSG04] - File detected d3d9.dll;
+Error   [BSG05] - Failed to load the 'ib' library;
+Error   [BSG06] - Incorrect name of the uploaded image.
 
 -- End --
